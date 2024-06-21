@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend-app
-        image: piyu5233/angular-test:frontend
+        image: rajatpzade/angular-test:frontend
         ports:
         - name: angular
           containerPort: 30080
